@@ -1,0 +1,3 @@
+# Best-first-8Puzzle
+here is my work on solving 8puzzle based on Best-first algorithm using Manhattan distance the program solves easy levels with at most 4 expansions.....
+#AI #8puzzle #Best-first
